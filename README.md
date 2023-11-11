@@ -1,5 +1,5 @@
 # HogWarp
-[HogWarp]([https://github.com/UnknownShadow200/MCGalaxy](https://www.nexusmods.com/hogwartslegacy/mods/1378)) is a Work In Progress mod that adds Multiplayer functionality to Hogwarts Legacy, similar to FiveM for GTAV
+[HogWarp]([https://www.nexusmods.com/hogwartslegacy/mods/1378]) is a Work In Progress mod that adds Multiplayer functionality to Hogwarts Legacy, similar to FiveM for GTAV
 
 
 This Mod requires a API key only obtainable through their Discord, see the Startup Variable **API KEY** for more info.
