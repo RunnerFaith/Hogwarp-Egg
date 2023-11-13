@@ -62,7 +62,7 @@
             "name": "Hogwarp API Key",
             "description": "A API required to boot - https:\/\/presence.hogwarp.com\/login",
             "env_variable": "API_KEY",
-            "default_value": "6L8JT3B5riZDdQ3V8BnKncjFryvhvMJ5",
+            "default_value": "CHANGEME",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|string",
