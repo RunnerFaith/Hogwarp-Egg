@@ -13,5 +13,5 @@ This Mod requires a API key only obtainable through their Discord, see the Start
 ## Hardware Requirements
 | Storage | RAM     | CPU |
 |---------|---------|-----|
-| 100MB   | 250MB   | 🥔  |
+| 1.5GB   | 250MB   | 🥔  |
 
