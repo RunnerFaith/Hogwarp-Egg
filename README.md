@@ -11,7 +11,7 @@ This Mod requires a API key only obtainable through their Discord, see the Start
 | Game    | 11778   |
 
 ## Hardware Requirements
-| Storage | RAM     |
-|---------|---------|
-| 2GB     | 500MB   |
+| Storage | RAM     | CPU |
+|---------|---------|-----|
+| 100MB   | 250MB   | 🥔  |
 
