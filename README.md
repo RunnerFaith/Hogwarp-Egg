@@ -17,3 +17,9 @@ Plugins as of now **do not work** as Wine and Winetricks will break the DLL it r
 |---------|---------|-----|
 | 1.5GB   | 250MB   | 🥔  |
 
+
+
+**NOTICE**
+**ALL FUTURE UPDATES WILL GO TO A NEW REPO**
+[My Eggs](https://github.com/ImKringle/My-Eggs)
+
